@@ -1,0 +1,12 @@
+{
+    "name"        : "server",
+    "version"     : "0.0.1",
+    "dependencies": {
+        "q"          : ">=0.9.7",
+        "express"    : "~4.0.0",
+        "body-parser": "~1.0.1"
+    },
+    "engines"     : {
+        "node": ">= 0.10.0"
+    }
+}

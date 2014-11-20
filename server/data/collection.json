@@ -1,0 +1,261 @@
+[
+	{
+		"idComic": 47386,
+		"title": "Superior Spider-Man (2013) #22",
+		"description": "The first issue in THE DARKEST HOUR &ndash; the Spider-Event of the year!\nFlash Thompson, the Secret Avenger known as Venom, is back in town for his first run-in with the Superior Spider-Man!\nWill their first encounter be friendly, or will Flash sense something perilous about Peter Parker&#39;s presence?",
+		"pageCount": 32,
+		"buyDate": "2014-11-06T18:47:02+0100",
+		"salesDate": "2013-11-27T06:00:00+0100",
+		"series": "Superior Spider-Man (2013 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/47386/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+					"name": "Christos Gage",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+					"name": "Dan Slott",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+					"name": "Humberto Ramos",
+					"role": "penciller (cover)"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/47386/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+					"name": "Spider-Man"
+				}
+			],
+			"returned": 1
+		},
+		"id": 3
+	},
+	{
+		"idComic": 50312,
+		"title": "Amazing Spider-Man (2014) #1 (Mhan Variant)",
+		"description": "The Greatest Super Hero of All Time RETURNS!\nThe world may have changed since Spidey’s been gone, but so has Peter Parker. This is a man with a second chance at life, and he’s not wasting a moment of it. Same Parker Luck, new Parker attitude. Putting the “friendly” back in the neighborhood, the “hero” back into “super hero,” and the “amazing” back into “Spider-Man!” Also returning: The recharged and reenergized ELECTRO!\n",
+		"pageCount": 64,
+		"buyDate": "2014-11-06T18:47:15+0100",
+		"salesDate": "2014-04-30T06:00:00+0200",
+		"series": "Amazing Spider-Man (2014 - Present)",
+		"price": 5.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/50312/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/5105",
+					"name": "Pop Mhan",
+					"role": "penciller (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+					"name": "Humberto Ramos",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+					"name": "Dan Slott",
+					"role": "writer"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/50312/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+					"name": "Spider-Man"
+				}
+			],
+			"returned": 1
+		},
+		"id": 4
+	},
+	{
+		"idComic": 50388,
+		"title": "Hulk (2014) #1 (Bagley Variant)",
+		"description": "Following the shocking events of last month’s INDESTRUCTIBLE HULK finale, Bruce Banner lies at death’s door! If he survives, it WON’T be as the Bruce Banner we’ve known! How will the Hulk wreak vengeance on Banner’s assailant? How CAN he?",
+		"pageCount": 32,
+		"buyDate": "2014-11-06T18:50:35+0100",
+		"salesDate": "2014-04-16T06:00:00+0200",
+		"series": "Hulk (2014 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/50388/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+					"name": "Mark Bagley",
+					"role": "penciller (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+					"name": "Mark Waid",
+					"role": "writer"
+				}
+			],
+			"returned": 2
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/50388/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+					"name": "Hulk"
+				}
+			],
+			"returned": 1
+		},
+		"id": 5
+	},
+	{
+		"idComic": 43331,
+		"title": "Uncanny Avengers (2012) #9",
+		"description": "Ragnarök Now continues!\n• A team divided. The Apocalypse Twins triumphant.\n• Wolverine discovers The Midnight City and soon wishes he hadn’t.\n• The Horsemen of Death shatter the Avengers body and soul!\n",
+		"pageCount": 32,
+		"buyDate": "2014-11-06T18:53:13+0100",
+		"salesDate": "2013-06-19T06:00:00+0200",
+		"series": "Uncanny Avengers (2012 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/43331/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+					"name": "Daniel Acuna",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+					"name": "John Cassaday",
+					"role": "penciler (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+					"name": "Rick Remender",
+					"role": "writer"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/43331/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+					"name": "Wolverine"
+				}
+			],
+			"returned": 1
+		},
+		"id": 6
+	},
+	{
+		"idComic": 43331,
+		"title": "Uncanny Avengers (2012) #9",
+		"description": "Ragnarök Now continues!\n• A team divided. The Apocalypse Twins triumphant.\n• Wolverine discovers The Midnight City and soon wishes he hadn’t.\n• The Horsemen of Death shatter the Avengers body and soul!\n",
+		"pageCount": 32,
+		"buyDate": "2014-11-06T18:53:13+0100",
+		"salesDate": "2013-06-19T06:00:00+0200",
+		"series": "Uncanny Avengers (2012 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/43331/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+					"name": "Daniel Acuna",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+					"name": "John Cassaday",
+					"role": "penciler (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+					"name": "Rick Remender",
+					"role": "writer"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/43331/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+					"name": "Wolverine"
+				}
+			],
+			"returned": 1
+		},
+		"id": 7
+	},
+	{
+		"idComic": 50372,
+		"title": "Hulk (2014) #1",
+		"description": "Following the shocking events of last month’s INDESTRUCTIBLE HULK finale, Bruce Banner lies at death’s door! If he survives, it WON’T be as the Bruce Banner we’ve known! How will the Hulk wreak vengeance on Banner’s assailant? How CAN he?",
+		"pageCount": 32,
+		"buyDate": "2014-11-06T18:55:51+0100",
+		"salesDate": "2014-04-16T06:00:00+0200",
+		"series": "Hulk (2014 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/50372/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+					"name": "Mark Bagley",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/8737",
+					"name": "Jerome Opena",
+					"role": "penciller (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+					"name": "Mark Waid",
+					"role": "writer"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/50372/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+					"name": "Hulk"
+				}
+			],
+			"returned": 1
+		},
+		"id": 8
+	}
+]
